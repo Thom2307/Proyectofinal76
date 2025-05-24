@@ -1,4 +1,4 @@
-package co.edu.uniquindio.poo.exeptions;
+package co.edu.uniquindio.poo.exceptions;
 
 public class EmpleadoException extends Exception{
 
